@@ -1,0 +1,2 @@
+# Small-code-
+THIS IS MY REPOSITORY
